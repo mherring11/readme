@@ -4,7 +4,7 @@ const fs = require("fs");
 const util = require("util");
 
 // Links questions to README template
-const ReadMeTemplate = require("./utils/generateMarkdown");
+const generateMarkdown = require("./utils/generateMarkdown");
 
 // Creates a function to write README file
 const createFile = util.promisify(fs.writeFile);
@@ -67,7 +67,7 @@ async function init() {
         const data = await promptUser();
         const createContent = generateMarkdown(data);
 
-        await createFile('./sample/README.md', createContent);
+        await createFile('./README.md', createContent);
         console.log('Successfully created README.md');
     } catch(err) {
         console.log(err);
