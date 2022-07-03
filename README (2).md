@@ -20,6 +20,14 @@ To test this app, open up the file in VS Code. Open the terminal, change directo
 
 https://drive.google.com/file/d/15wp5Flpg38np1dp2xjKX0l7P2GeKxu6Z/view
 
+##Screenshot
+
+![Screenshot (37)](https://user-images.githubusercontent.com/27812373/177045421-ae347745-330d-4403-9194-7504a4544d25.png)
+
+![Screenshot (38)](https://user-images.githubusercontent.com/27812373/177045446-10dba2e0-70db-4980-a3e4-b51fc28569ff.png)
+
+![Screenshot (39)](https://user-images.githubusercontent.com/27812373/177045453-d464ffe7-3e6a-4d5d-bca9-595946ad6680.png)
+
 
 ## Authors
 
