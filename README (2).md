@@ -42,3 +42,9 @@ To deploy this project run
   node index
 ```
 
+## Questions
+
+Have any questions about this project? Reach out!
+GitHub: https://github.com/mherring11
+Email: m.herring11@yahoo.com
+
