@@ -10,7 +10,7 @@ This README generator will allow the user to answer a series of specific questio
 
 Click the repository link below.  Clone to a directory of your choice using your terminal. Open the file in VS Code or whatever editor you work with. Open the terminal in VS Code and make sure you’re in the Develop folder. You're now ready to use the README generator.
 
-git@github.com:mherring11/readme.git
+[git@github.com:mherring11/readme.git](https://github.com/mherring11/readme)
 ## Running Tests
 
 To test this app, open up the file in VS Code. Open the terminal, change directory into the Develop folder  and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’
