@@ -18,7 +18,7 @@ To test this app, open up the file in VS Code. Open the terminal, change directo
 
 ## Demo
 
-https://user-images.githubusercontent.com/27812373/178168639-c56aa68c-c30d-4b13-b404-c66aedb8b913.webm
+
 
 ##Screenshot
 
